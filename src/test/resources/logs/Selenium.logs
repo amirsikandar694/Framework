@@ -1,0 +1,18 @@
+16:55:33,438 DEBUG devpinoyLogger<strong>{1}</strong>:41 - Config file loaded
+16:55:33,441 DEBUG devpinoyLogger<strong>{1}</strong>:55 - OR file loaded
+16:55:36,369 DEBUG devpinoyLogger<strong>{1}</strong>:65 - URL http://www.way2automation.com/angularjs-protractor/banking/#/login Open
+16:55:38,906 DEBUG devpinoyLogger<strong>{1}</strong>:67 - Maximize Browser
+16:55:39,047 DEBUG devpinoyLogger<strong>{1}</strong>:15 - Click on BankManager Button
+16:55:39,108 DEBUG devpinoyLogger<strong>{1}</strong>:17 - Checking add customer button
+16:55:39,268 DEBUG devpinoyLogger<strong>{1}</strong>:21 - Assertion successfull
+16:55:39,358 DEBUG devpinoyLogger<strong>{1}</strong>:18 - Fetch data from data 
+16:55:41,598 DEBUG devpinoyLogger<strong>{1}</strong>:32 - Data Entered
+16:55:43,721 DEBUG devpinoyLogger<strong>{1}</strong>:35 - Add customer button clicked
+16:55:43,739 DEBUG devpinoyLogger<strong>{1}</strong>:38 - Accept the alert
+16:55:45,901 DEBUG devpinoyLogger<strong>{1}</strong>:32 - Data Entered
+16:55:47,996 DEBUG devpinoyLogger<strong>{1}</strong>:35 - Add customer button clicked
+16:55:48,027 DEBUG devpinoyLogger<strong>{1}</strong>:38 - Accept the alert
+16:55:50,177 DEBUG devpinoyLogger<strong>{1}</strong>:32 - Data Entered
+16:55:52,220 DEBUG devpinoyLogger<strong>{1}</strong>:35 - Add customer button clicked
+16:55:52,235 DEBUG devpinoyLogger<strong>{1}</strong>:38 - Accept the alert
+16:55:52,902 DEBUG devpinoyLogger<strong>{1}</strong>:94 - Close Browser
