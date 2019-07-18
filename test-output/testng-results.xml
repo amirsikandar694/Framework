@@ -8,13 +8,13 @@
       <![CDATA[Login as Bank Manager]]>
     </line>
     <line>
-      <![CDATA[<a target="_blank" href="C:\EclipseWorkspace\Banking\test-output\error.png">Screenshot</a>]]>
+      <![CDATA[<a target="_blank" href="C:\EclipseWorkspace\Banking.zip_expanded\Banking\test-output\error.png">Screenshot</a>]]>
     </line>
     <line>
       <![CDATA[<br>]]>
     </line>
     <line>
-      <![CDATA[<a target="_blank" href="C:\EclipseWorkspace\Banking\test-output\error.png"><img src="C:\EclipseWorkspace\Banking\test-output\error.png"></img></a>]]>
+      <![CDATA[<a target="_blank" href="C:\EclipseWorkspace\Banking.zip_expanded\Banking\test-output\error.png"><img src="C:\EclipseWorkspace\Banking.zip_expanded\Banking\test-output\error.png"></img></a>]]>
     </line>
     <line>
       <![CDATA[Customer successfully added]]>
@@ -26,39 +26,39 @@
       <![CDATA[Customer successfully added]]>
     </line>
   </reporter-output>
-  <suite started-at="2019-07-17T11:25:39Z" name="Banking" finished-at="2019-07-17T11:25:52Z" duration-ms="13206">
+  <suite started-at="2019-07-18T04:27:15Z" name="Banking" finished-at="2019-07-18T04:27:29Z" duration-ms="13319">
     <groups>
     </groups>
-    <test started-at="2019-07-17T11:25:39Z" name="Bank Manager Login" finished-at="2019-07-17T11:25:39Z" duration-ms="289">
+    <test started-at="2019-07-18T04:27:15Z" name="Bank Manager Login" finished-at="2019-07-18T04:27:16Z" duration-ms="413">
       <class name="com.w2a.testcases.BankManagerLogin">
-        <test-method signature="loginAsBankManager()[pri:0, instance:com.w2a.testcases.BankManagerLogin@7bedc48a]" started-at="2019-07-17T11:25:39Z" name="loginAsBankManager" finished-at="2019-07-17T11:25:39Z" duration-ms="274" status="PASS">
+        <test-method signature="loginAsBankManager()[pri:0, instance:com.w2a.testcases.BankManagerLogin@7bedc48a]" started-at="2019-07-18T04:27:15Z" name="loginAsBankManager" finished-at="2019-07-18T04:27:16Z" duration-ms="385" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[Login as Bank Manager]]>
             </line>
             <line>
-              <![CDATA[<a target="_blank" href="C:\EclipseWorkspace\Banking\test-output\error.png">Screenshot</a>]]>
+              <![CDATA[<a target="_blank" href="C:\EclipseWorkspace\Banking.zip_expanded\Banking\test-output\error.png">Screenshot</a>]]>
             </line>
             <line>
               <![CDATA[<br>]]>
             </line>
             <line>
-              <![CDATA[<a target="_blank" href="C:\EclipseWorkspace\Banking\test-output\error.png"><img src="C:\EclipseWorkspace\Banking\test-output\error.png"></img></a>]]>
+              <![CDATA[<a target="_blank" href="C:\EclipseWorkspace\Banking.zip_expanded\Banking\test-output\error.png"><img src="C:\EclipseWorkspace\Banking.zip_expanded\Banking\test-output\error.png"></img></a>]]>
             </line>
           </reporter-output>
         </test-method> <!-- loginAsBankManager -->
       </class> <!-- com.w2a.testcases.BankManagerLogin -->
     </test> <!-- Bank Manager Login -->
-    <test started-at="2019-07-17T11:25:39Z" name="Add Customer" finished-at="2019-07-17T11:25:52Z" duration-ms="12883">
+    <test started-at="2019-07-18T04:27:16Z" name="Add Customer" finished-at="2019-07-18T04:27:29Z" duration-ms="12875">
       <class name="com.w2a.testcases.AddCustomer">
-        <test-method is-config="true" signature="setUp()[pri:0, instance:com.w2a.testcases.AddCustomer@f79e]" started-at="2019-07-17T11:25:33Z" name="setUp" finished-at="2019-07-17T11:25:39Z" duration-ms="5603" status="PASS">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.w2a.testcases.AddCustomer@f79e]" started-at="2019-07-18T04:27:10Z" name="setUp" finished-at="2019-07-18T04:27:15Z" duration-ms="5152" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[Browser launch Successfully]]>
             </line>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method signature="addcustomer(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.w2a.testcases.AddCustomer@f79e]" started-at="2019-07-17T11:25:39Z" name="addcustomer" data-provider="getData" finished-at="2019-07-17T11:25:43Z" duration-ms="4382" status="PASS">
+        <test-method signature="addcustomer(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.w2a.testcases.AddCustomer@f79e]" started-at="2019-07-18T04:27:16Z" name="addcustomer" data-provider="getData" finished-at="2019-07-18T04:27:20Z" duration-ms="4441" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -82,7 +82,7 @@
             </line>
           </reporter-output>
         </test-method> <!-- addcustomer -->
-        <test-method signature="addcustomer(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.w2a.testcases.AddCustomer@f79e]" started-at="2019-07-17T11:25:43Z" name="addcustomer" data-provider="getData" finished-at="2019-07-17T11:25:48Z" duration-ms="4282" status="PASS">
+        <test-method signature="addcustomer(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.w2a.testcases.AddCustomer@f79e]" started-at="2019-07-18T04:27:20Z" name="addcustomer" data-provider="getData" finished-at="2019-07-18T04:27:24Z" duration-ms="4222" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -106,7 +106,7 @@
             </line>
           </reporter-output>
         </test-method> <!-- addcustomer -->
-        <test-method signature="addcustomer(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.w2a.testcases.AddCustomer@f79e]" started-at="2019-07-17T11:25:48Z" name="addcustomer" data-provider="getData" finished-at="2019-07-17T11:25:52Z" duration-ms="4208" status="PASS">
+        <test-method signature="addcustomer(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.w2a.testcases.AddCustomer@f79e]" started-at="2019-07-18T04:27:24Z" name="addcustomer" data-provider="getData" finished-at="2019-07-18T04:27:29Z" duration-ms="4201" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -130,7 +130,7 @@
             </line>
           </reporter-output>
         </test-method> <!-- addcustomer -->
-        <test-method is-config="true" signature="teardown()[pri:0, instance:com.w2a.testcases.AddCustomer@f79e]" started-at="2019-07-17T11:25:52Z" name="teardown" finished-at="2019-07-17T11:25:52Z" duration-ms="611" status="PASS">
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.w2a.testcases.AddCustomer@f79e]" started-at="2019-07-18T04:27:29Z" name="teardown" finished-at="2019-07-18T04:27:29Z" duration-ms="621" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- teardown -->
