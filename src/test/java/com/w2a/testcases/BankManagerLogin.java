@@ -20,13 +20,7 @@ public void loginAsBankManager()
 	Assert.assertTrue(driver.findElement(By.xpath(OR.getProperty("add_customer_btn"))).isDisplayed());
 	log.debug("Assertion successfull");
 	driver.findElement(By.xpath(OR.getProperty("add_customer_btn"))).click();
-	Reporter.log("Login as Bank Manager");
-	Reporter.log("<a target=\"_blank\" href=\"C:\\EclipseWorkspace\\Banking.zip_expanded\\Banking\\test-output\\error.png\">Screenshot</a>");
-// Adding thumbnail in extent reporting	
-	Reporter.log("<br>");
-	Reporter.log("<a target=\"_blank\" href=\"C:\\EclipseWorkspace\\Banking.zip_expanded\\Banking\\test-output\\error.png\"><img src=\"C:\\EclipseWorkspace\\Banking.zip_expanded\\Banking\\test-output\\error.png\"></img></a>");
-	
-	
+	Reporter.log("Login as Bank Manager");	
 }
 
 }

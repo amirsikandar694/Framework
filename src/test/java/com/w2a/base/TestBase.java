@@ -14,6 +14,10 @@ import org.testng.Reporter;
 import org.testng.annotations.AfterSuite;
 import org.testng.annotations.BeforeSuite;
 
+import com.relevantcodes.extentreports.ExtentReports;
+import com.relevantcodes.extentreports.ExtentTest;
+import com.w2a.utilities.ExtentManager;
+
 public class TestBase {
 	
 
@@ -24,6 +28,8 @@ public class TestBase {
 		public static FileInputStream fisco;
 		public static FileInputStream fisor;
 		public static Logger log=Logger.getLogger("devpinoyLogger");
+		public ExtentReports report=ExtentManager.getInstance();
+		public static ExtentTest test;
 		
 		@BeforeSuite
 		public void setUp()

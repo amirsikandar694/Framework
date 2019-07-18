@@ -8,84 +8,66 @@
       <![CDATA[Login as Bank Manager]]>
     </line>
     <line>
-      <![CDATA[<a target="_blank" href="C:\EclipseWorkspace\Banking.zip_expanded\Banking\test-output\error.png">Screenshot</a>]]>
+      <![CDATA[Capturing screenshot for failure]]>
+    </line>
+    <line>
+      <![CDATA[<a target="_blank" href=Thu_Jul_18_16_52_06_IST_2019>Click to see Screenshot</a>]]>
     </line>
     <line>
       <![CDATA[<br>]]>
     </line>
     <line>
-      <![CDATA[<a target="_blank" href="C:\EclipseWorkspace\Banking.zip_expanded\Banking\test-output\error.png"><img src="C:\EclipseWorkspace\Banking.zip_expanded\Banking\test-output\error.png"></img></a>]]>
+      <![CDATA[<a target="_blank" href=Thu_Jul_18_16_52_06_IST_2019><img src=Thu_Jul_18_16_52_06_IST_2019 height=200 widht=200 ></img></a>]]>
     </line>
     <line>
       <![CDATA[Capturing screenshot for failure]]>
     </line>
     <line>
-      <![CDATA[<a target="_blank" href="C:\EclipseWorkspace\Banking.zip_expanded\Banking\test-output\error.png">Screenshot</a>]]>
+      <![CDATA[<a target="_blank" href=Thu_Jul_18_16_52_09_IST_2019>Click to see Screenshot</a>]]>
     </line>
     <line>
       <![CDATA[<br>]]>
     </line>
     <line>
-      <![CDATA[<a target="_blank" href="C:\EclipseWorkspace\Banking.zip_expanded\Banking\test-output\error.png"><img src="C:\EclipseWorkspace\Banking.zip_expanded\Banking\test-output\error.png"></img></a>]]>
+      <![CDATA[<a target="_blank" href=Thu_Jul_18_16_52_09_IST_2019><img src=Thu_Jul_18_16_52_09_IST_2019 height=200 widht=200 ></img></a>]]>
     </line>
     <line>
       <![CDATA[Capturing screenshot for failure]]>
     </line>
     <line>
-      <![CDATA[<a target="_blank" href="C:\EclipseWorkspace\Banking.zip_expanded\Banking\test-output\error.png">Screenshot</a>]]>
+      <![CDATA[<a target="_blank" href=Thu_Jul_18_16_52_11_IST_2019>Click to see Screenshot</a>]]>
     </line>
     <line>
       <![CDATA[<br>]]>
     </line>
     <line>
-      <![CDATA[<a target="_blank" href="C:\EclipseWorkspace\Banking.zip_expanded\Banking\test-output\error.png"><img src="C:\EclipseWorkspace\Banking.zip_expanded\Banking\test-output\error.png"></img></a>]]>
-    </line>
-    <line>
-      <![CDATA[Capturing screenshot for failure]]>
-    </line>
-    <line>
-      <![CDATA[<a target="_blank" href="C:\EclipseWorkspace\Banking.zip_expanded\Banking\test-output\error.png">Screenshot</a>]]>
-    </line>
-    <line>
-      <![CDATA[<br>]]>
-    </line>
-    <line>
-      <![CDATA[<a target="_blank" href="C:\EclipseWorkspace\Banking.zip_expanded\Banking\test-output\error.png"><img src="C:\EclipseWorkspace\Banking.zip_expanded\Banking\test-output\error.png"></img></a>]]>
+      <![CDATA[<a target="_blank" href=Thu_Jul_18_16_52_11_IST_2019><img src=Thu_Jul_18_16_52_11_IST_2019 height=200 widht=200 ></img></a>]]>
     </line>
   </reporter-output>
-  <suite started-at="2019-07-18T08:32:25Z" name="Banking" finished-at="2019-07-18T08:32:26Z" duration-ms="943">
+  <suite started-at="2019-07-18T11:22:03Z" name="Banking" finished-at="2019-07-18T11:22:12Z" duration-ms="8644">
     <groups>
     </groups>
-    <test started-at="2019-07-18T08:32:25Z" name="Bank Manager Login" finished-at="2019-07-18T08:32:26Z" duration-ms="450">
+    <test started-at="2019-07-18T11:22:03Z" name="Bank Manager Login" finished-at="2019-07-18T11:22:04Z" duration-ms="521">
       <class name="com.w2a.testcases.BankManagerLogin">
-        <test-method signature="loginAsBankManager()[pri:0, instance:com.w2a.testcases.BankManagerLogin@131ef10]" started-at="2019-07-18T08:32:25Z" name="loginAsBankManager" finished-at="2019-07-18T08:32:26Z" duration-ms="423" status="PASS">
+        <test-method signature="loginAsBankManager()[pri:0, instance:com.w2a.testcases.BankManagerLogin@50b5ac82]" started-at="2019-07-18T11:22:03Z" name="loginAsBankManager" finished-at="2019-07-18T11:22:04Z" duration-ms="506" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[Login as Bank Manager]]>
-            </line>
-            <line>
-              <![CDATA[<a target="_blank" href="C:\EclipseWorkspace\Banking.zip_expanded\Banking\test-output\error.png">Screenshot</a>]]>
-            </line>
-            <line>
-              <![CDATA[<br>]]>
-            </line>
-            <line>
-              <![CDATA[<a target="_blank" href="C:\EclipseWorkspace\Banking.zip_expanded\Banking\test-output\error.png"><img src="C:\EclipseWorkspace\Banking.zip_expanded\Banking\test-output\error.png"></img></a>]]>
             </line>
           </reporter-output>
         </test-method> <!-- loginAsBankManager -->
       </class> <!-- com.w2a.testcases.BankManagerLogin -->
     </test> <!-- Bank Manager Login -->
-    <test started-at="2019-07-18T08:32:26Z" name="Add Customer" finished-at="2019-07-18T08:32:26Z" duration-ms="459">
+    <test started-at="2019-07-18T11:22:04Z" name="Add Customer" finished-at="2019-07-18T11:22:12Z" duration-ms="8089">
       <class name="com.w2a.testcases.AddCustomer">
-        <test-method is-config="true" signature="setUp()[pri:0, instance:com.w2a.testcases.AddCustomer@7ee8290b]" started-at="2019-07-18T08:32:19Z" name="setUp" finished-at="2019-07-18T08:32:25Z" duration-ms="6429" status="PASS">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.w2a.testcases.AddCustomer@4d465b11]" started-at="2019-07-18T11:21:58Z" name="setUp" finished-at="2019-07-18T11:22:03Z" duration-ms="5383" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[Browser launch Successfully]]>
             </line>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method signature="addcustomer(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.w2a.testcases.AddCustomer@7ee8290b]" started-at="2019-07-18T08:32:26Z" name="addcustomer" data-provider="getData" finished-at="2019-07-18T08:32:26Z" duration-ms="268" status="FAIL">
+        <test-method signature="addcustomer(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.w2a.testcases.AddCustomer@4d465b11]" started-at="2019-07-18T11:22:04Z" name="addcustomer" data-provider="getData" finished-at="2019-07-18T11:22:06Z" duration-ms="2401" status="FAIL">
           <params>
             <param index="0">
               <value>
@@ -103,15 +85,14 @@
               </value>
             </param>
           </params>
-          <exception class="java.lang.IllegalArgumentException">
+          <exception class="java.lang.AssertionError">
             <message>
-              <![CDATA[Cannot find elements when the XPath is null.]]>
+              <![CDATA[Failure]]>
             </message>
             <full-stacktrace>
-              <![CDATA[java.lang.IllegalArgumentException: Cannot find elements when the XPath is null.
-at org.openqa.selenium.By$ByXPath.<init>(By.java:339)
-at org.openqa.selenium.By.xpath(By.java:92)
-at com.w2a.testcases.AddCustomer.addcustomer(AddCustomer.java:30)
+              <![CDATA[java.lang.AssertionError: Failure
+at org.testng.Assert.fail(Assert.java:96)
+at com.w2a.testcases.AddCustomer.addcustomer(AddCustomer.java:36)
 at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
 at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
 at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
@@ -139,23 +120,23 @@ at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
 at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
 ]]>
             </full-stacktrace>
-          </exception> <!-- java.lang.IllegalArgumentException -->
+          </exception> <!-- java.lang.AssertionError -->
           <reporter-output>
             <line>
               <![CDATA[Capturing screenshot for failure]]>
             </line>
             <line>
-              <![CDATA[<a target="_blank" href="C:\EclipseWorkspace\Banking.zip_expanded\Banking\test-output\error.png">Screenshot</a>]]>
+              <![CDATA[<a target="_blank" href=Thu_Jul_18_16_52_06_IST_2019>Click to see Screenshot</a>]]>
             </line>
             <line>
               <![CDATA[<br>]]>
             </line>
             <line>
-              <![CDATA[<a target="_blank" href="C:\EclipseWorkspace\Banking.zip_expanded\Banking\test-output\error.png"><img src="C:\EclipseWorkspace\Banking.zip_expanded\Banking\test-output\error.png"></img></a>]]>
+              <![CDATA[<a target="_blank" href=Thu_Jul_18_16_52_06_IST_2019><img src=Thu_Jul_18_16_52_06_IST_2019 height=200 widht=200 ></img></a>]]>
             </line>
           </reporter-output>
         </test-method> <!-- addcustomer -->
-        <test-method signature="addcustomer(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.w2a.testcases.AddCustomer@7ee8290b]" started-at="2019-07-18T08:32:26Z" name="addcustomer" data-provider="getData" finished-at="2019-07-18T08:32:26Z" duration-ms="99" status="FAIL">
+        <test-method signature="addcustomer(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.w2a.testcases.AddCustomer@4d465b11]" started-at="2019-07-18T11:22:06Z" name="addcustomer" data-provider="getData" finished-at="2019-07-18T11:22:09Z" duration-ms="2283" status="FAIL">
           <params>
             <param index="0">
               <value>
@@ -173,15 +154,14 @@ at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
               </value>
             </param>
           </params>
-          <exception class="java.lang.IllegalArgumentException">
+          <exception class="java.lang.AssertionError">
             <message>
-              <![CDATA[Cannot find elements when the XPath is null.]]>
+              <![CDATA[Failure]]>
             </message>
             <full-stacktrace>
-              <![CDATA[java.lang.IllegalArgumentException: Cannot find elements when the XPath is null.
-at org.openqa.selenium.By$ByXPath.<init>(By.java:339)
-at org.openqa.selenium.By.xpath(By.java:92)
-at com.w2a.testcases.AddCustomer.addcustomer(AddCustomer.java:30)
+              <![CDATA[java.lang.AssertionError: Failure
+at org.testng.Assert.fail(Assert.java:96)
+at com.w2a.testcases.AddCustomer.addcustomer(AddCustomer.java:36)
 at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
 at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
 at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
@@ -209,23 +189,23 @@ at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
 at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
 ]]>
             </full-stacktrace>
-          </exception> <!-- java.lang.IllegalArgumentException -->
+          </exception> <!-- java.lang.AssertionError -->
           <reporter-output>
             <line>
               <![CDATA[Capturing screenshot for failure]]>
             </line>
             <line>
-              <![CDATA[<a target="_blank" href="C:\EclipseWorkspace\Banking.zip_expanded\Banking\test-output\error.png">Screenshot</a>]]>
+              <![CDATA[<a target="_blank" href=Thu_Jul_18_16_52_09_IST_2019>Click to see Screenshot</a>]]>
             </line>
             <line>
               <![CDATA[<br>]]>
             </line>
             <line>
-              <![CDATA[<a target="_blank" href="C:\EclipseWorkspace\Banking.zip_expanded\Banking\test-output\error.png"><img src="C:\EclipseWorkspace\Banking.zip_expanded\Banking\test-output\error.png"></img></a>]]>
+              <![CDATA[<a target="_blank" href=Thu_Jul_18_16_52_09_IST_2019><img src=Thu_Jul_18_16_52_09_IST_2019 height=200 widht=200 ></img></a>]]>
             </line>
           </reporter-output>
         </test-method> <!-- addcustomer -->
-        <test-method signature="addcustomer(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.w2a.testcases.AddCustomer@7ee8290b]" started-at="2019-07-18T08:32:26Z" name="addcustomer" data-provider="getData" finished-at="2019-07-18T08:32:26Z" duration-ms="85" status="FAIL">
+        <test-method signature="addcustomer(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.w2a.testcases.AddCustomer@4d465b11]" started-at="2019-07-18T11:22:09Z" name="addcustomer" data-provider="getData" finished-at="2019-07-18T11:22:11Z" duration-ms="2228" status="FAIL">
           <params>
             <param index="0">
               <value>
@@ -243,15 +223,14 @@ at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
               </value>
             </param>
           </params>
-          <exception class="java.lang.IllegalArgumentException">
+          <exception class="java.lang.AssertionError">
             <message>
-              <![CDATA[Cannot find elements when the XPath is null.]]>
+              <![CDATA[Failure]]>
             </message>
             <full-stacktrace>
-              <![CDATA[java.lang.IllegalArgumentException: Cannot find elements when the XPath is null.
-at org.openqa.selenium.By$ByXPath.<init>(By.java:339)
-at org.openqa.selenium.By.xpath(By.java:92)
-at com.w2a.testcases.AddCustomer.addcustomer(AddCustomer.java:30)
+              <![CDATA[java.lang.AssertionError: Failure
+at org.testng.Assert.fail(Assert.java:96)
+at com.w2a.testcases.AddCustomer.addcustomer(AddCustomer.java:36)
 at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
 at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
 at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
@@ -279,23 +258,23 @@ at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
 at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
 ]]>
             </full-stacktrace>
-          </exception> <!-- java.lang.IllegalArgumentException -->
+          </exception> <!-- java.lang.AssertionError -->
           <reporter-output>
             <line>
               <![CDATA[Capturing screenshot for failure]]>
             </line>
             <line>
-              <![CDATA[<a target="_blank" href="C:\EclipseWorkspace\Banking.zip_expanded\Banking\test-output\error.png">Screenshot</a>]]>
+              <![CDATA[<a target="_blank" href=Thu_Jul_18_16_52_11_IST_2019>Click to see Screenshot</a>]]>
             </line>
             <line>
               <![CDATA[<br>]]>
             </line>
             <line>
-              <![CDATA[<a target="_blank" href="C:\EclipseWorkspace\Banking.zip_expanded\Banking\test-output\error.png"><img src="C:\EclipseWorkspace\Banking.zip_expanded\Banking\test-output\error.png"></img></a>]]>
+              <![CDATA[<a target="_blank" href=Thu_Jul_18_16_52_11_IST_2019><img src=Thu_Jul_18_16_52_11_IST_2019 height=200 widht=200 ></img></a>]]>
             </line>
           </reporter-output>
         </test-method> <!-- addcustomer -->
-        <test-method is-config="true" signature="teardown()[pri:0, instance:com.w2a.testcases.AddCustomer@7ee8290b]" started-at="2019-07-18T08:32:26Z" name="teardown" finished-at="2019-07-18T08:32:27Z" duration-ms="597" status="PASS">
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.w2a.testcases.AddCustomer@4d465b11]" started-at="2019-07-18T11:22:12Z" name="teardown" finished-at="2019-07-18T11:22:12Z" duration-ms="605" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- teardown -->
