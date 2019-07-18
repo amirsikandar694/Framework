@@ -33,7 +33,6 @@ public class AddCustomer extends TestBase{
 		driver.findElement(By.xpath(OR.getProperty("postcode_txtbox"))).sendKeys(postCode);
 		Thread.sleep(2000);
 		log.debug("Data Entered");
-		Assert.fail("Failure");
 		driver.findElement(By.xpath(OR.getProperty("addcustomer_btn"))).click();
 		Thread.sleep(2000);
 		log.debug("Add customer button clicked");
