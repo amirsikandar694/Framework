@@ -142,7 +142,6 @@
 		</dependency>
 
 
-
 	</dependencies>
 
 
@@ -164,10 +163,7 @@
 				<version>2.20</version>
 				<configuration>
 					<suiteXmlFiles>
-						<suiteXmlFile>WorkflowtestNG.xml</suiteXmlFile>
-						<suiteXmlFile>testNG.xml</suiteXmlFile>
-						<!-- <suiteXmlFile>src/main/resources/testng.xml</suiteXmlFile> -->
-						<outputDirectory>${basedir}/target/results</outputDirectory>
+						<suiteXmlFile>src\test\resources\runner\testng.xml</suiteXmlFile>
 					</suiteXmlFiles>
 				</configuration>
 			</plugin>

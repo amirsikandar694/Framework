@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
 <suite name="Failed suite [Banking]" guice-stage="DEVELOPMENT">
-  <test thread-count="5" name="AddCustomer(failed)">
+  <listeners>
+    <listener class-name="org.uncommons.reportng.HTMLReporter"/>
+    <listener class-name="org.uncommons.reportng.JUnitXMLReporter"/>
+    <listener class-name="com.w2a.listener.CustomListeners"/>
+  </listeners>
+  <test thread-count="5" name="Add Customer(failed)">
     <classes>
       <class name="com.w2a.testcases.AddCustomer">
         <methods>
@@ -11,5 +16,5 @@
         </methods>
       </class> <!-- com.w2a.testcases.AddCustomer -->
     </classes>
-  </test> <!-- AddCustomer(failed) -->
+  </test> <!-- Add Customer(failed) -->
 </suite> <!-- Failed suite [Banking] -->

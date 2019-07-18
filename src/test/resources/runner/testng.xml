@@ -6,6 +6,7 @@
 	<listeners>
 		<listener class-name="org.uncommons.reportng.HTMLReporter" />
 		<listener class-name="org.uncommons.reportng.JUnitXMLReporter" />
+		<listener class-name="com.w2a.listener.CustomListeners" />
 	</listeners>
 
 	<test name="Bank Manager Login">

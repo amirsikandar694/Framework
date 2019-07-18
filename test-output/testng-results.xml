@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+<testng-results ignored="0" total="4" passed="1" failed="3" skipped="0">
   <reporter-output>
     <line>
       <![CDATA[Browser launch Successfully]]>
@@ -17,21 +17,48 @@
       <![CDATA[<a target="_blank" href="C:\EclipseWorkspace\Banking.zip_expanded\Banking\test-output\error.png"><img src="C:\EclipseWorkspace\Banking.zip_expanded\Banking\test-output\error.png"></img></a>]]>
     </line>
     <line>
-      <![CDATA[Customer successfully added]]>
+      <![CDATA[Capturing screenshot for failure]]>
     </line>
     <line>
-      <![CDATA[Customer successfully added]]>
+      <![CDATA[<a target="_blank" href="C:\EclipseWorkspace\Banking.zip_expanded\Banking\test-output\error.png">Screenshot</a>]]>
     </line>
     <line>
-      <![CDATA[Customer successfully added]]>
+      <![CDATA[<br>]]>
+    </line>
+    <line>
+      <![CDATA[<a target="_blank" href="C:\EclipseWorkspace\Banking.zip_expanded\Banking\test-output\error.png"><img src="C:\EclipseWorkspace\Banking.zip_expanded\Banking\test-output\error.png"></img></a>]]>
+    </line>
+    <line>
+      <![CDATA[Capturing screenshot for failure]]>
+    </line>
+    <line>
+      <![CDATA[<a target="_blank" href="C:\EclipseWorkspace\Banking.zip_expanded\Banking\test-output\error.png">Screenshot</a>]]>
+    </line>
+    <line>
+      <![CDATA[<br>]]>
+    </line>
+    <line>
+      <![CDATA[<a target="_blank" href="C:\EclipseWorkspace\Banking.zip_expanded\Banking\test-output\error.png"><img src="C:\EclipseWorkspace\Banking.zip_expanded\Banking\test-output\error.png"></img></a>]]>
+    </line>
+    <line>
+      <![CDATA[Capturing screenshot for failure]]>
+    </line>
+    <line>
+      <![CDATA[<a target="_blank" href="C:\EclipseWorkspace\Banking.zip_expanded\Banking\test-output\error.png">Screenshot</a>]]>
+    </line>
+    <line>
+      <![CDATA[<br>]]>
+    </line>
+    <line>
+      <![CDATA[<a target="_blank" href="C:\EclipseWorkspace\Banking.zip_expanded\Banking\test-output\error.png"><img src="C:\EclipseWorkspace\Banking.zip_expanded\Banking\test-output\error.png"></img></a>]]>
     </line>
   </reporter-output>
-  <suite started-at="2019-07-18T04:27:15Z" name="Banking" finished-at="2019-07-18T04:27:29Z" duration-ms="13319">
+  <suite started-at="2019-07-18T08:32:25Z" name="Banking" finished-at="2019-07-18T08:32:26Z" duration-ms="943">
     <groups>
     </groups>
-    <test started-at="2019-07-18T04:27:15Z" name="Bank Manager Login" finished-at="2019-07-18T04:27:16Z" duration-ms="413">
+    <test started-at="2019-07-18T08:32:25Z" name="Bank Manager Login" finished-at="2019-07-18T08:32:26Z" duration-ms="450">
       <class name="com.w2a.testcases.BankManagerLogin">
-        <test-method signature="loginAsBankManager()[pri:0, instance:com.w2a.testcases.BankManagerLogin@7bedc48a]" started-at="2019-07-18T04:27:15Z" name="loginAsBankManager" finished-at="2019-07-18T04:27:16Z" duration-ms="385" status="PASS">
+        <test-method signature="loginAsBankManager()[pri:0, instance:com.w2a.testcases.BankManagerLogin@131ef10]" started-at="2019-07-18T08:32:25Z" name="loginAsBankManager" finished-at="2019-07-18T08:32:26Z" duration-ms="423" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[Login as Bank Manager]]>
@@ -49,16 +76,16 @@
         </test-method> <!-- loginAsBankManager -->
       </class> <!-- com.w2a.testcases.BankManagerLogin -->
     </test> <!-- Bank Manager Login -->
-    <test started-at="2019-07-18T04:27:16Z" name="Add Customer" finished-at="2019-07-18T04:27:29Z" duration-ms="12875">
+    <test started-at="2019-07-18T08:32:26Z" name="Add Customer" finished-at="2019-07-18T08:32:26Z" duration-ms="459">
       <class name="com.w2a.testcases.AddCustomer">
-        <test-method is-config="true" signature="setUp()[pri:0, instance:com.w2a.testcases.AddCustomer@f79e]" started-at="2019-07-18T04:27:10Z" name="setUp" finished-at="2019-07-18T04:27:15Z" duration-ms="5152" status="PASS">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.w2a.testcases.AddCustomer@7ee8290b]" started-at="2019-07-18T08:32:19Z" name="setUp" finished-at="2019-07-18T08:32:25Z" duration-ms="6429" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[Browser launch Successfully]]>
             </line>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method signature="addcustomer(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.w2a.testcases.AddCustomer@f79e]" started-at="2019-07-18T04:27:16Z" name="addcustomer" data-provider="getData" finished-at="2019-07-18T04:27:20Z" duration-ms="4441" status="PASS">
+        <test-method signature="addcustomer(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.w2a.testcases.AddCustomer@7ee8290b]" started-at="2019-07-18T08:32:26Z" name="addcustomer" data-provider="getData" finished-at="2019-07-18T08:32:26Z" duration-ms="268" status="FAIL">
           <params>
             <param index="0">
               <value>
@@ -76,13 +103,59 @@
               </value>
             </param>
           </params>
+          <exception class="java.lang.IllegalArgumentException">
+            <message>
+              <![CDATA[Cannot find elements when the XPath is null.]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.IllegalArgumentException: Cannot find elements when the XPath is null.
+at org.openqa.selenium.By$ByXPath.<init>(By.java:339)
+at org.openqa.selenium.By.xpath(By.java:92)
+at com.w2a.testcases.AddCustomer.addcustomer(AddCustomer.java:30)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.base/java.lang.reflect.Method.invoke(Method.java:567)
+at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:124)
+at org.testng.internal.Invoker.invokeMethod(Invoker.java:583)
+at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:719)
+at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:989)
+at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)
+at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)
+at org.testng.TestRunner.privateRun(TestRunner.java:648)
+at org.testng.TestRunner.run(TestRunner.java:505)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:455)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:450)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:415)
+at org.testng.SuiteRunner.run(SuiteRunner.java:364)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:84)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1208)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1137)
+at org.testng.TestNG.runSuites(TestNG.java:1049)
+at org.testng.TestNG.run(TestNG.java:1017)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.IllegalArgumentException -->
           <reporter-output>
             <line>
-              <![CDATA[Customer successfully added]]>
+              <![CDATA[Capturing screenshot for failure]]>
+            </line>
+            <line>
+              <![CDATA[<a target="_blank" href="C:\EclipseWorkspace\Banking.zip_expanded\Banking\test-output\error.png">Screenshot</a>]]>
+            </line>
+            <line>
+              <![CDATA[<br>]]>
+            </line>
+            <line>
+              <![CDATA[<a target="_blank" href="C:\EclipseWorkspace\Banking.zip_expanded\Banking\test-output\error.png"><img src="C:\EclipseWorkspace\Banking.zip_expanded\Banking\test-output\error.png"></img></a>]]>
             </line>
           </reporter-output>
         </test-method> <!-- addcustomer -->
-        <test-method signature="addcustomer(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.w2a.testcases.AddCustomer@f79e]" started-at="2019-07-18T04:27:20Z" name="addcustomer" data-provider="getData" finished-at="2019-07-18T04:27:24Z" duration-ms="4222" status="PASS">
+        <test-method signature="addcustomer(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.w2a.testcases.AddCustomer@7ee8290b]" started-at="2019-07-18T08:32:26Z" name="addcustomer" data-provider="getData" finished-at="2019-07-18T08:32:26Z" duration-ms="99" status="FAIL">
           <params>
             <param index="0">
               <value>
@@ -100,13 +173,59 @@
               </value>
             </param>
           </params>
+          <exception class="java.lang.IllegalArgumentException">
+            <message>
+              <![CDATA[Cannot find elements when the XPath is null.]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.IllegalArgumentException: Cannot find elements when the XPath is null.
+at org.openqa.selenium.By$ByXPath.<init>(By.java:339)
+at org.openqa.selenium.By.xpath(By.java:92)
+at com.w2a.testcases.AddCustomer.addcustomer(AddCustomer.java:30)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.base/java.lang.reflect.Method.invoke(Method.java:567)
+at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:124)
+at org.testng.internal.Invoker.invokeMethod(Invoker.java:583)
+at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:719)
+at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:989)
+at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)
+at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)
+at org.testng.TestRunner.privateRun(TestRunner.java:648)
+at org.testng.TestRunner.run(TestRunner.java:505)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:455)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:450)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:415)
+at org.testng.SuiteRunner.run(SuiteRunner.java:364)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:84)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1208)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1137)
+at org.testng.TestNG.runSuites(TestNG.java:1049)
+at org.testng.TestNG.run(TestNG.java:1017)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.IllegalArgumentException -->
           <reporter-output>
             <line>
-              <![CDATA[Customer successfully added]]>
+              <![CDATA[Capturing screenshot for failure]]>
+            </line>
+            <line>
+              <![CDATA[<a target="_blank" href="C:\EclipseWorkspace\Banking.zip_expanded\Banking\test-output\error.png">Screenshot</a>]]>
+            </line>
+            <line>
+              <![CDATA[<br>]]>
+            </line>
+            <line>
+              <![CDATA[<a target="_blank" href="C:\EclipseWorkspace\Banking.zip_expanded\Banking\test-output\error.png"><img src="C:\EclipseWorkspace\Banking.zip_expanded\Banking\test-output\error.png"></img></a>]]>
             </line>
           </reporter-output>
         </test-method> <!-- addcustomer -->
-        <test-method signature="addcustomer(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.w2a.testcases.AddCustomer@f79e]" started-at="2019-07-18T04:27:24Z" name="addcustomer" data-provider="getData" finished-at="2019-07-18T04:27:29Z" duration-ms="4201" status="PASS">
+        <test-method signature="addcustomer(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.w2a.testcases.AddCustomer@7ee8290b]" started-at="2019-07-18T08:32:26Z" name="addcustomer" data-provider="getData" finished-at="2019-07-18T08:32:26Z" duration-ms="85" status="FAIL">
           <params>
             <param index="0">
               <value>
@@ -124,13 +243,59 @@
               </value>
             </param>
           </params>
+          <exception class="java.lang.IllegalArgumentException">
+            <message>
+              <![CDATA[Cannot find elements when the XPath is null.]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.IllegalArgumentException: Cannot find elements when the XPath is null.
+at org.openqa.selenium.By$ByXPath.<init>(By.java:339)
+at org.openqa.selenium.By.xpath(By.java:92)
+at com.w2a.testcases.AddCustomer.addcustomer(AddCustomer.java:30)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.base/java.lang.reflect.Method.invoke(Method.java:567)
+at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:124)
+at org.testng.internal.Invoker.invokeMethod(Invoker.java:583)
+at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:719)
+at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:989)
+at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)
+at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)
+at org.testng.TestRunner.privateRun(TestRunner.java:648)
+at org.testng.TestRunner.run(TestRunner.java:505)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:455)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:450)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:415)
+at org.testng.SuiteRunner.run(SuiteRunner.java:364)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:84)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1208)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1137)
+at org.testng.TestNG.runSuites(TestNG.java:1049)
+at org.testng.TestNG.run(TestNG.java:1017)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.IllegalArgumentException -->
           <reporter-output>
             <line>
-              <![CDATA[Customer successfully added]]>
+              <![CDATA[Capturing screenshot for failure]]>
+            </line>
+            <line>
+              <![CDATA[<a target="_blank" href="C:\EclipseWorkspace\Banking.zip_expanded\Banking\test-output\error.png">Screenshot</a>]]>
+            </line>
+            <line>
+              <![CDATA[<br>]]>
+            </line>
+            <line>
+              <![CDATA[<a target="_blank" href="C:\EclipseWorkspace\Banking.zip_expanded\Banking\test-output\error.png"><img src="C:\EclipseWorkspace\Banking.zip_expanded\Banking\test-output\error.png"></img></a>]]>
             </line>
           </reporter-output>
         </test-method> <!-- addcustomer -->
-        <test-method is-config="true" signature="teardown()[pri:0, instance:com.w2a.testcases.AddCustomer@f79e]" started-at="2019-07-18T04:27:29Z" name="teardown" finished-at="2019-07-18T04:27:29Z" duration-ms="621" status="PASS">
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.w2a.testcases.AddCustomer@7ee8290b]" started-at="2019-07-18T08:32:26Z" name="teardown" finished-at="2019-07-18T08:32:27Z" duration-ms="597" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- teardown -->
