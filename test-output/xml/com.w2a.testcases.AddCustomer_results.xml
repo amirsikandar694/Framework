@@ -4,16 +4,15 @@
            failures="3"
            errors="0"
            skipped="0"
-           time="0.452">
+           time="6.912">
   <properties />
-            <testcase name="addcustomer" time="0.099" classname="com.w2a.testcases.AddCustomer">
-                <failure type="java.lang.IllegalArgumentException"
-                  message="Cannot find elements when the XPath is null."
+            <testcase name="addcustomer" time="2.283" classname="com.w2a.testcases.AddCustomer">
+                <failure type="java.lang.AssertionError"
+                  message="Failure"
               >
-<![CDATA[java.lang.IllegalArgumentException: Cannot find elements when the XPath is null.
-  org.openqa.selenium.By$ByXPath.<init>(By.java:339)
-  org.openqa.selenium.By.xpath(By.java:92)
-  com.w2a.testcases.AddCustomer.addcustomer(AddCustomer.java:30)
+<![CDATA[java.lang.AssertionError: Failure
+  org.testng.Assert.fail(Assert.java:96)
+  com.w2a.testcases.AddCustomer.addcustomer(AddCustomer.java:36)
   java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
   java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
   java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
@@ -43,14 +42,13 @@
       </failure>
 
           </testcase>
-            <testcase name="addcustomer" time="0.085" classname="com.w2a.testcases.AddCustomer">
-                <failure type="java.lang.IllegalArgumentException"
-                  message="Cannot find elements when the XPath is null."
+            <testcase name="addcustomer" time="2.228" classname="com.w2a.testcases.AddCustomer">
+                <failure type="java.lang.AssertionError"
+                  message="Failure"
               >
-<![CDATA[java.lang.IllegalArgumentException: Cannot find elements when the XPath is null.
-  org.openqa.selenium.By$ByXPath.<init>(By.java:339)
-  org.openqa.selenium.By.xpath(By.java:92)
-  com.w2a.testcases.AddCustomer.addcustomer(AddCustomer.java:30)
+<![CDATA[java.lang.AssertionError: Failure
+  org.testng.Assert.fail(Assert.java:96)
+  com.w2a.testcases.AddCustomer.addcustomer(AddCustomer.java:36)
   java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
   java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
   java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
@@ -80,14 +78,13 @@
       </failure>
 
           </testcase>
-            <testcase name="addcustomer" time="0.268" classname="com.w2a.testcases.AddCustomer">
-                <failure type="java.lang.IllegalArgumentException"
-                  message="Cannot find elements when the XPath is null."
+            <testcase name="addcustomer" time="2.401" classname="com.w2a.testcases.AddCustomer">
+                <failure type="java.lang.AssertionError"
+                  message="Failure"
               >
-<![CDATA[java.lang.IllegalArgumentException: Cannot find elements when the XPath is null.
-  org.openqa.selenium.By$ByXPath.<init>(By.java:339)
-  org.openqa.selenium.By.xpath(By.java:92)
-  com.w2a.testcases.AddCustomer.addcustomer(AddCustomer.java:30)
+<![CDATA[java.lang.AssertionError: Failure
+  org.testng.Assert.fail(Assert.java:96)
+  com.w2a.testcases.AddCustomer.addcustomer(AddCustomer.java:36)
   java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
   java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
   java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
