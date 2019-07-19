@@ -24,16 +24,18 @@ public class AddCustomer extends TestBase{
 	@Test(dataProvider ="getData")
 	public void addcustomer(String firstname,String lastname,String postCode) throws InterruptedException
 	{
-		driver.findElement(By.xpath(OR.getProperty("firstname_txtbox"))).clear();;
-		driver.findElement(By.xpath(OR.getProperty("lastname_txtbox"))).clear();;
-		driver.findElement(By.xpath(OR.getProperty("postcode_txtbox"))).clear();;
 
-		driver.findElement(By.xpath(OR.getProperty("firstname_txtbox"))).sendKeys(firstname);
-		driver.findElement(By.xpath(OR.getProperty("lastname_txtbox"))).sendKeys(lastname);
-		driver.findElement(By.xpath(OR.getProperty("postcode_txtbox"))).sendKeys(postCode);
+		clearText("firstname_txtbox");
+		clearText("lastname_txtbox");
+		clearText("postcode_txtbox");
+		
+		type("firstname_txtbox", firstname);
+		type("lastname_txtbox", lastname);
+		type("postcode_txtbox", postCode);
+		
 		Thread.sleep(2000);
 		log.debug("Data Entered");
-		driver.findElement(By.xpath(OR.getProperty("addcustomer_btn"))).click();
+		click("addcustomer_btn");
 		Thread.sleep(2000);
 		log.debug("Add customer button clicked");
 		Alert alert=driver.switchTo().alert();

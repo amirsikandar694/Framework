@@ -91,6 +91,22 @@ public class TestBase {
 				return false;
 			}	
 		}
+		
+		public void click(String locator)
+		{
+			driver.findElement(By.xpath(OR.getProperty(locator))).click();
+		}
+		
+		public void type(String locator, String value)
+		{
+			driver.findElement(By.xpath(OR.getProperty(locator))).sendKeys(value);
+		}
+		
+		public void clearText(String locator)
+		{
+			driver.findElement(By.xpath(OR.getProperty(locator))).clear();
+		}
+		
 	
 
 		@AfterSuite
