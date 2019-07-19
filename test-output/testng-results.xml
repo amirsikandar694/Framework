@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
   <reporter-output>
     <line>
       <![CDATA[Browser launch Successfully]]>
@@ -17,12 +17,12 @@
       <![CDATA[Customer successfully added]]>
     </line>
   </reporter-output>
-  <suite name="Banking" duration-ms="14633" started-at="2019-07-18T16:26:16Z" finished-at="2019-07-18T16:26:31Z">
+  <suite started-at="2019-07-19T04:12:03Z" name="Banking" finished-at="2019-07-19T04:12:17Z" duration-ms="13587">
     <groups>
     </groups>
-    <test name="Bank Manager Login" duration-ms="512" started-at="2019-07-18T16:26:16Z" finished-at="2019-07-18T16:26:17Z">
+    <test started-at="2019-07-19T04:12:03Z" name="Bank Manager Login" finished-at="2019-07-19T04:12:04Z" duration-ms="353">
       <class name="com.w2a.testcases.BankManagerLogin">
-        <test-method status="PASS" signature="loginAsBankManager()[pri:0, instance:com.w2a.testcases.BankManagerLogin@b7f23d9]" name="loginAsBankManager" duration-ms="482" started-at="2019-07-18T16:26:16Z" finished-at="2019-07-18T16:26:17Z">
+        <test-method signature="loginAsBankManager()[pri:0, instance:com.w2a.testcases.BankManagerLogin@58d75e99]" started-at="2019-07-19T04:12:03Z" name="loginAsBankManager" finished-at="2019-07-19T04:12:04Z" duration-ms="340" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[Login as Bank Manager]]>
@@ -31,16 +31,16 @@
         </test-method> <!-- loginAsBankManager -->
       </class> <!-- com.w2a.testcases.BankManagerLogin -->
     </test> <!-- Bank Manager Login -->
-    <test name="Add Customer" duration-ms="14061" started-at="2019-07-18T16:26:17Z" finished-at="2019-07-18T16:26:31Z">
+    <test started-at="2019-07-19T04:12:04Z" name="Add Customer" finished-at="2019-07-19T04:12:17Z" duration-ms="13202">
       <class name="com.w2a.testcases.AddCustomer">
-        <test-method status="PASS" signature="setUp()[pri:0, instance:com.w2a.testcases.AddCustomer@1a052a00]" name="setUp" is-config="true" duration-ms="19987" started-at="2019-07-18T16:25:56Z" finished-at="2019-07-18T16:26:16Z">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.w2a.testcases.AddCustomer@1e1a0406]" started-at="2019-07-19T04:11:58Z" name="setUp" finished-at="2019-07-19T04:12:03Z" duration-ms="5861" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[Browser launch Successfully]]>
             </line>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method status="PASS" signature="addcustomer(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.w2a.testcases.AddCustomer@1a052a00]" name="addcustomer" duration-ms="4881" started-at="2019-07-18T16:26:17Z" data-provider="getData" finished-at="2019-07-18T16:26:22Z">
+        <test-method signature="addcustomer(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.w2a.testcases.AddCustomer@1e1a0406]" started-at="2019-07-19T04:12:04Z" name="addcustomer" data-provider="getData" finished-at="2019-07-19T04:12:08Z" duration-ms="4475" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -64,7 +64,7 @@
             </line>
           </reporter-output>
         </test-method> <!-- addcustomer -->
-        <test-method status="PASS" signature="addcustomer(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.w2a.testcases.AddCustomer@1a052a00]" name="addcustomer" duration-ms="4573" started-at="2019-07-18T16:26:22Z" data-provider="getData" finished-at="2019-07-18T16:26:26Z">
+        <test-method signature="addcustomer(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.w2a.testcases.AddCustomer@1e1a0406]" started-at="2019-07-19T04:12:08Z" name="addcustomer" data-provider="getData" finished-at="2019-07-19T04:12:13Z" duration-ms="4360" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -88,7 +88,7 @@
             </line>
           </reporter-output>
         </test-method> <!-- addcustomer -->
-        <test-method status="PASS" signature="addcustomer(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.w2a.testcases.AddCustomer@1a052a00]" name="addcustomer" duration-ms="4577" started-at="2019-07-18T16:26:26Z" data-provider="getData" finished-at="2019-07-18T16:26:31Z">
+        <test-method signature="addcustomer(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.w2a.testcases.AddCustomer@1e1a0406]" started-at="2019-07-19T04:12:13Z" name="addcustomer" data-provider="getData" finished-at="2019-07-19T04:12:17Z" duration-ms="4351" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -112,7 +112,7 @@
             </line>
           </reporter-output>
         </test-method> <!-- addcustomer -->
-        <test-method status="PASS" signature="teardown()[pri:0, instance:com.w2a.testcases.AddCustomer@1a052a00]" name="teardown" is-config="true" duration-ms="799" started-at="2019-07-18T16:26:31Z" finished-at="2019-07-18T16:26:32Z">
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.w2a.testcases.AddCustomer@1e1a0406]" started-at="2019-07-19T04:12:17Z" name="teardown" finished-at="2019-07-19T04:12:18Z" duration-ms="633" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- teardown -->
