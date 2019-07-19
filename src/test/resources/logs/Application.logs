@@ -1,18 +1,18 @@
-19/07/2019 14:55:56 devpinoyLogger Config file loaded
-19/07/2019 14:55:56 devpinoyLogger OR file loaded
-19/07/2019 14:55:59 devpinoyLogger URL http://www.way2automation.com/angularjs-protractor/banking/#/login Open
-19/07/2019 14:56:02 devpinoyLogger Maximize Browser
-19/07/2019 14:56:02 devpinoyLogger Click on BankManager Button
-19/07/2019 14:56:02 devpinoyLogger Checking add customer button
-19/07/2019 14:56:02 devpinoyLogger Assertion successfull
-19/07/2019 14:56:02 devpinoyLogger Fetch data from data 
-19/07/2019 14:56:05 devpinoyLogger Data Entered
-19/07/2019 14:56:07 devpinoyLogger Add customer button clicked
-19/07/2019 14:56:07 devpinoyLogger Accept the alert
-19/07/2019 14:56:09 devpinoyLogger Data Entered
-19/07/2019 14:56:11 devpinoyLogger Add customer button clicked
-19/07/2019 14:56:11 devpinoyLogger Accept the alert
-19/07/2019 14:56:13 devpinoyLogger Data Entered
-19/07/2019 14:56:15 devpinoyLogger Add customer button clicked
-19/07/2019 14:56:15 devpinoyLogger Accept the alert
-19/07/2019 14:56:16 devpinoyLogger Close Browser
+19/07/2019 15:15:40 devpinoyLogger Config file loaded
+19/07/2019 15:15:40 devpinoyLogger OR file loaded
+19/07/2019 15:15:43 devpinoyLogger URL http://www.way2automation.com/angularjs-protractor/banking/#/login Open
+19/07/2019 15:15:46 devpinoyLogger Maximize Browser
+19/07/2019 15:15:46 devpinoyLogger Click on BankManager Button
+19/07/2019 15:15:46 devpinoyLogger Checking add customer button
+19/07/2019 15:15:46 devpinoyLogger Assertion successfull
+19/07/2019 15:15:46 devpinoyLogger Fetch data from data 
+19/07/2019 15:15:49 devpinoyLogger Data Entered
+19/07/2019 15:15:51 devpinoyLogger Add customer button clicked
+19/07/2019 15:15:51 devpinoyLogger Accept the alert
+19/07/2019 15:15:53 devpinoyLogger Data Entered
+19/07/2019 15:15:55 devpinoyLogger Add customer button clicked
+19/07/2019 15:15:55 devpinoyLogger Accept the alert
+19/07/2019 15:15:57 devpinoyLogger Data Entered
+19/07/2019 15:15:59 devpinoyLogger Add customer button clicked
+19/07/2019 15:15:59 devpinoyLogger Accept the alert
+19/07/2019 15:16:00 devpinoyLogger Close Browser

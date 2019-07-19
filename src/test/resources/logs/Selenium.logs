@@ -1,18 +1,18 @@
-14:55:56,505 DEBUG devpinoyLogger<strong>{1}</strong>:47 - Config file loaded
-14:55:56,507 DEBUG devpinoyLogger<strong>{1}</strong>:61 - OR file loaded
-14:55:59,588 DEBUG devpinoyLogger<strong>{1}</strong>:71 - URL http://www.way2automation.com/angularjs-protractor/banking/#/login Open
-14:56:02,300 DEBUG devpinoyLogger<strong>{1}</strong>:73 - Maximize Browser
-14:56:02,471 DEBUG devpinoyLogger<strong>{1}</strong>:15 - Click on BankManager Button
-14:56:02,539 DEBUG devpinoyLogger<strong>{1}</strong>:17 - Checking add customer button
-14:56:02,699 DEBUG devpinoyLogger<strong>{1}</strong>:21 - Assertion successfull
-14:56:02,789 DEBUG devpinoyLogger<strong>{1}</strong>:19 - Fetch data from data 
-14:56:05,142 DEBUG devpinoyLogger<strong>{1}</strong>:37 - Data Entered
-14:56:07,202 DEBUG devpinoyLogger<strong>{1}</strong>:40 - Add customer button clicked
-14:56:07,219 DEBUG devpinoyLogger<strong>{1}</strong>:43 - Accept the alert
-14:56:09,464 DEBUG devpinoyLogger<strong>{1}</strong>:37 - Data Entered
-14:56:11,552 DEBUG devpinoyLogger<strong>{1}</strong>:40 - Add customer button clicked
-14:56:11,557 DEBUG devpinoyLogger<strong>{1}</strong>:43 - Accept the alert
-14:56:13,787 DEBUG devpinoyLogger<strong>{1}</strong>:37 - Data Entered
-14:56:15,882 DEBUG devpinoyLogger<strong>{1}</strong>:40 - Add customer button clicked
-14:56:15,900 DEBUG devpinoyLogger<strong>{1}</strong>:43 - Accept the alert
-14:56:16,552 DEBUG devpinoyLogger<strong>{1}</strong>:116 - Close Browser
+15:15:40,438 DEBUG devpinoyLogger<strong>{1}</strong>:47 - Config file loaded
+15:15:40,441 DEBUG devpinoyLogger<strong>{1}</strong>:61 - OR file loaded
+15:15:43,600 DEBUG devpinoyLogger<strong>{1}</strong>:71 - URL http://www.way2automation.com/angularjs-protractor/banking/#/login Open
+15:15:46,315 DEBUG devpinoyLogger<strong>{1}</strong>:73 - Maximize Browser
+15:15:46,460 DEBUG devpinoyLogger<strong>{1}</strong>:15 - Click on BankManager Button
+15:15:46,520 DEBUG devpinoyLogger<strong>{1}</strong>:17 - Checking add customer button
+15:15:46,690 DEBUG devpinoyLogger<strong>{1}</strong>:20 - Assertion successfull
+15:15:46,788 DEBUG devpinoyLogger<strong>{1}</strong>:19 - Fetch data from data 
+15:15:49,136 DEBUG devpinoyLogger<strong>{1}</strong>:37 - Data Entered
+15:15:51,366 DEBUG devpinoyLogger<strong>{1}</strong>:40 - Add customer button clicked
+15:15:51,374 DEBUG devpinoyLogger<strong>{1}</strong>:43 - Accept the alert
+15:15:53,626 DEBUG devpinoyLogger<strong>{1}</strong>:37 - Data Entered
+15:15:55,670 DEBUG devpinoyLogger<strong>{1}</strong>:40 - Add customer button clicked
+15:15:55,674 DEBUG devpinoyLogger<strong>{1}</strong>:43 - Accept the alert
+15:15:57,907 DEBUG devpinoyLogger<strong>{1}</strong>:37 - Data Entered
+15:15:59,948 DEBUG devpinoyLogger<strong>{1}</strong>:40 - Add customer button clicked
+15:15:59,954 DEBUG devpinoyLogger<strong>{1}</strong>:43 - Accept the alert
+15:16:00,604 DEBUG devpinoyLogger<strong>{1}</strong>:116 - Close Browser

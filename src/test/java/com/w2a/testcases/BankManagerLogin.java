@@ -16,10 +16,9 @@ public void loginAsBankManager()
 	driver.findElement(By.xpath(OR.getProperty("bnk_mng_login"))).click();
 	log.debug("Checking add customer button");
 	//Assert.assertTrue(isElementPresent(By.xpath(config.getProperty("add_customer_btn"))));
-	
 	Assert.assertTrue(driver.findElement(By.xpath(OR.getProperty("add_customer_btn"))).isDisplayed());
 	log.debug("Assertion successfull");
-	driver.findElement(By.xpath(OR.getProperty("add_customer_btn"))).click();
+	click("add_customer_btn");
 	Reporter.log("Login as Bank Manager");	
 }
 
