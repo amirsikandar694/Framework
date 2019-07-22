@@ -42,7 +42,7 @@ public class CustomListeners extends TestBase implements ITestListener{
 			e.printStackTrace();
 		}
 		
-		//test.log(LogStatus.FAIL, result.getName().toUpperCase()+"Failed with"+ result.getThrowable());
+		test.log(LogStatus.FAIL, result.getName().toUpperCase()+"Failed with"+ result.getThrowable());
 		test.log(LogStatus.FAIL, test.addScreenCapture(TestUtil.screenshotName));
 		System.setProperty("org.uncommons.reportng.escape-output", "false");
 		Reporter.log("Capturing screenshot for failure");

@@ -1,32 +1,32 @@
-13:04:20,429 DEBUG devpinoyLogger<strong>{1}</strong>:47 - Config file loaded
-13:04:20,433 DEBUG devpinoyLogger<strong>{1}</strong>:61 - OR file loaded
-13:04:23,170 DEBUG devpinoyLogger<strong>{1}</strong>:71 - URL http://www.way2automation.com/angularjs-protractor/banking/#/login Open
-13:04:26,002 DEBUG devpinoyLogger<strong>{1}</strong>:73 - Maximize Browser
-13:04:26,157 DEBUG devpinoyLogger<strong>{1}</strong>:15 - Click on BankManager Button
-13:04:26,225 DEBUG devpinoyLogger<strong>{1}</strong>:17 - Checking add customer button
-13:04:26,384 DEBUG devpinoyLogger<strong>{1}</strong>:20 - Assertion successfull
-13:04:26,451 DEBUG freemarker.cache<strong>{1}</strong>:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
-13:04:26,452 DEBUG freemarker.cache<strong>{1}</strong>:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
-13:04:26,454 DEBUG freemarker.cache<strong>{1}</strong>:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
-13:04:26,455 DEBUG freemarker.cache<strong>{1}</strong>:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
-13:04:26,455 DEBUG freemarker.cache<strong>{1}</strong>:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ASIKANDAR2/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
-13:04:26,668 DEBUG devpinoyLogger<strong>{1}</strong>:25 - Fetch data from data 
-13:04:28,939 DEBUG devpinoyLogger<strong>{1}</strong>:43 - Data Entered
-13:04:29,287 DEBUG freemarker.cache<strong>{1}</strong>:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
-13:04:29,287 DEBUG freemarker.cache<strong>{1}</strong>:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
-13:04:29,288 DEBUG freemarker.cache<strong>{1}</strong>:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
-13:04:29,289 DEBUG freemarker.cache<strong>{1}</strong>:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
-13:04:29,289 DEBUG freemarker.cache<strong>{1}</strong>:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ASIKANDAR2/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
-13:04:31,550 DEBUG devpinoyLogger<strong>{1}</strong>:43 - Data Entered
-13:04:31,972 DEBUG freemarker.cache<strong>{1}</strong>:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
-13:04:31,972 DEBUG freemarker.cache<strong>{1}</strong>:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
-13:04:31,973 DEBUG freemarker.cache<strong>{1}</strong>:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
-13:04:31,973 DEBUG freemarker.cache<strong>{1}</strong>:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
-13:04:31,973 DEBUG freemarker.cache<strong>{1}</strong>:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ASIKANDAR2/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
-13:04:34,226 DEBUG devpinoyLogger<strong>{1}</strong>:43 - Data Entered
-13:04:34,606 DEBUG freemarker.cache<strong>{1}</strong>:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
-13:04:34,606 DEBUG freemarker.cache<strong>{1}</strong>:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
-13:04:34,606 DEBUG freemarker.cache<strong>{1}</strong>:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
-13:04:34,607 DEBUG freemarker.cache<strong>{1}</strong>:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
-13:04:34,607 DEBUG freemarker.cache<strong>{1}</strong>:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ASIKANDAR2/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
-13:04:35,265 DEBUG devpinoyLogger<strong>{1}</strong>:116 - Close Browser
+13:12:00,186 DEBUG devpinoyLogger<strong>{1}</strong>:47 - Config file loaded
+13:12:00,190 DEBUG devpinoyLogger<strong>{1}</strong>:61 - OR file loaded
+13:12:03,131 DEBUG devpinoyLogger<strong>{1}</strong>:71 - URL http://www.way2automation.com/angularjs-protractor/banking/#/login Open
+13:12:05,812 DEBUG devpinoyLogger<strong>{1}</strong>:73 - Maximize Browser
+13:12:05,971 DEBUG devpinoyLogger<strong>{1}</strong>:15 - Click on BankManager Button
+13:12:06,038 DEBUG devpinoyLogger<strong>{1}</strong>:17 - Checking add customer button
+13:12:06,204 DEBUG devpinoyLogger<strong>{1}</strong>:20 - Assertion successfull
+13:12:06,271 DEBUG freemarker.cache<strong>{1}</strong>:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+13:12:06,272 DEBUG freemarker.cache<strong>{1}</strong>:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+13:12:06,273 DEBUG freemarker.cache<strong>{1}</strong>:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+13:12:06,274 DEBUG freemarker.cache<strong>{1}</strong>:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+13:12:06,274 DEBUG freemarker.cache<strong>{1}</strong>:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ASIKANDAR2/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+13:12:06,499 DEBUG devpinoyLogger<strong>{1}</strong>:25 - Fetch data from data 
+13:12:08,774 DEBUG devpinoyLogger<strong>{1}</strong>:43 - Data Entered
+13:12:09,107 DEBUG freemarker.cache<strong>{1}</strong>:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+13:12:09,108 DEBUG freemarker.cache<strong>{1}</strong>:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+13:12:09,109 DEBUG freemarker.cache<strong>{1}</strong>:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+13:12:09,110 DEBUG freemarker.cache<strong>{1}</strong>:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+13:12:09,110 DEBUG freemarker.cache<strong>{1}</strong>:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ASIKANDAR2/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+13:12:11,374 DEBUG devpinoyLogger<strong>{1}</strong>:43 - Data Entered
+13:12:11,784 DEBUG freemarker.cache<strong>{1}</strong>:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+13:12:11,784 DEBUG freemarker.cache<strong>{1}</strong>:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+13:12:11,785 DEBUG freemarker.cache<strong>{1}</strong>:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+13:12:11,785 DEBUG freemarker.cache<strong>{1}</strong>:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+13:12:11,785 DEBUG freemarker.cache<strong>{1}</strong>:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ASIKANDAR2/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+13:12:14,035 DEBUG devpinoyLogger<strong>{1}</strong>:43 - Data Entered
+13:12:14,451 DEBUG freemarker.cache<strong>{1}</strong>:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+13:12:14,452 DEBUG freemarker.cache<strong>{1}</strong>:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+13:12:14,452 DEBUG freemarker.cache<strong>{1}</strong>:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+13:12:14,452 DEBUG freemarker.cache<strong>{1}</strong>:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+13:12:14,452 DEBUG freemarker.cache<strong>{1}</strong>:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/ASIKANDAR2/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+13:12:15,112 DEBUG devpinoyLogger<strong>{1}</strong>:116 - Close Browser
