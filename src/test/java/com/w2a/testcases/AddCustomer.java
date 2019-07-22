@@ -1,17 +1,23 @@
 package com.w2a.testcases;
 
+import static org.testng.Assert.assertTrue;
+
 import org.openqa.selenium.Alert;
 import org.openqa.selenium.By;
 import org.testng.Assert;
 import org.testng.Reporter;
 import org.testng.annotations.DataProvider;
 import org.testng.annotations.Test;
+import org.testng.asserts.SoftAssert;
 
 import com.w2a.base.TestBase;
 
 public class AddCustomer extends TestBase{
+	
+	
+	
 
-
+	SoftAssert softassert = new SoftAssert();
 	
 	
 	@DataProvider(name="getData")
@@ -35,10 +41,12 @@ public class AddCustomer extends TestBase{
 		
 		Thread.sleep(2000);
 		log.debug("Data Entered");
+		Assert.assertEquals("Pass", "Fail");
 		click("addcustomer_btn");
 		Thread.sleep(2000);
 		log.debug("Add customer button clicked");
 		Alert alert=driver.switchTo().alert();
+
 		alert.accept();
 		log.debug("Accept the alert");
 		Reporter.log("Customer successfully added");
