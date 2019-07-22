@@ -41,7 +41,7 @@ public class AddCustomer extends TestBase{
 		
 		Thread.sleep(2000);
 		log.debug("Data Entered");
-		Assert.assertEquals("Pass", "Fail");
+		//Assert.assertEquals("Pass", "Fail");
 		click("addcustomer_btn");
 		Thread.sleep(2000);
 		log.debug("Add customer button clicked");

@@ -16,6 +16,7 @@ import org.testng.annotations.BeforeSuite;
 
 import com.relevantcodes.extentreports.ExtentReports;
 import com.relevantcodes.extentreports.ExtentTest;
+import com.relevantcodes.extentreports.LogStatus;
 import com.w2a.utilities.ExtentManager;
 
 public class TestBase {
@@ -95,16 +96,19 @@ public class TestBase {
 		public void click(String locator)
 		{
 			driver.findElement(By.xpath(OR.getProperty(locator))).click();
+			test.log(LogStatus.INFO, "Click on "+locator);
 		}
 		
 		public void type(String locator, String value)
 		{
 			driver.findElement(By.xpath(OR.getProperty(locator))).sendKeys(value);
+			test.log(LogStatus.INFO, "Typing in "+ locator +" entered value is "+value);
 		}
 		
 		public void clearText(String locator)
 		{
 			driver.findElement(By.xpath(OR.getProperty(locator))).clear();
+			test.log(LogStatus.INFO, "Clearing text from "+ locator);
 		}
 		
 	
