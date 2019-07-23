@@ -1,6 +1,13 @@
 package com.w2a.listener;
 
 import java.io.IOException;
+import java.net.InetAddress;
+import java.net.UnknownHostException;
+
+import javax.mail.MessagingException;
+
+import org.testng.ISuite;
+import org.testng.ISuiteListener;
 import org.testng.ITestContext;
 import org.testng.ITestListener;
 import org.testng.ITestResult;
@@ -8,10 +15,13 @@ import org.testng.Reporter;
 
 import com.relevantcodes.extentreports.LogStatus;
 import com.w2a.base.TestBase;
+import com.w2a.utilities.MonitoringMail;
+import com.w2a.utilities.TestConfig;
 import com.w2a.utilities.TestUtil;
 
-public class CustomListeners extends TestBase implements ITestListener{
+public class CustomListeners extends TestBase implements ITestListener, ISuiteListener{
 
+	String messageBody;
 	@Override
 	public void onTestStart(ITestResult result) {
 		// TODO Auto-generated method stub
@@ -77,6 +87,33 @@ public class CustomListeners extends TestBase implements ITestListener{
 	@Override
 	public void onFinish(ITestContext context) {
 		// TODO Auto-generated method stub
+		
+	}
+
+	@Override
+	public void onStart(ISuite suite) {
+		// TODO Auto-generated method stub
+		
+	}
+
+	@Override
+	public void onFinish(ISuite suite) {
+		MonitoringMail mail=new MonitoringMail();
+
+		try {
+			messageBody = "http://"+InetAddress.getLocalHost().getHostAddress()+":8080/job/MavenGit/Extent_20Report/";
+		} catch (UnknownHostException e1) {
+			// TODO Auto-generated catch block
+			e1.printStackTrace();
+		}
+		System.out.println(messageBody);
+		
+		try {
+			mail.sendMail(TestConfig.server, TestConfig.from, TestConfig.to, TestConfig.subject, messageBody);
+		} catch (MessagingException e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		}
 		
 	}
 
