@@ -1,0 +1,18 @@
+23/07/2019 11:50:39 devpinoyLogger Config file loaded
+23/07/2019 11:50:39 devpinoyLogger OR file loaded
+23/07/2019 11:50:41 devpinoyLogger URL http://www.way2automation.com/angularjs-protractor/banking/#/login Open
+23/07/2019 11:50:47 devpinoyLogger Maximize Browser
+23/07/2019 11:50:47 devpinoyLogger Click on BankManager Button
+23/07/2019 11:50:47 devpinoyLogger Checking add customer button
+23/07/2019 11:50:47 devpinoyLogger Assertion successfull
+23/07/2019 11:50:47 devpinoyLogger Fetch data from data 
+23/07/2019 11:50:50 devpinoyLogger Data Entered
+23/07/2019 11:50:52 devpinoyLogger Add customer button clicked
+23/07/2019 11:50:52 devpinoyLogger Accept the alert
+23/07/2019 11:50:54 devpinoyLogger Data Entered
+23/07/2019 11:50:56 devpinoyLogger Add customer button clicked
+23/07/2019 11:50:56 devpinoyLogger Accept the alert
+23/07/2019 11:50:58 devpinoyLogger Data Entered
+23/07/2019 11:51:00 devpinoyLogger Add customer button clicked
+23/07/2019 11:51:00 devpinoyLogger Accept the alert
+23/07/2019 11:51:01 devpinoyLogger Close Browser
