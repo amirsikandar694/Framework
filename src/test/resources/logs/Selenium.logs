@@ -1,38 +1,38 @@
-11:50:39,690 DEBUG devpinoyLogger<strong>{1}</strong>:48 - Config file loaded
-11:50:39,694 DEBUG devpinoyLogger<strong>{1}</strong>:62 - OR file loaded
-11:50:41,338 DEBUG devpinoyLogger<strong>{1}</strong>:72 - URL http://www.way2automation.com/angularjs-protractor/banking/#/login Open
-11:50:47,132 DEBUG devpinoyLogger<strong>{1}</strong>:74 - Maximize Browser
-11:50:47,263 DEBUG devpinoyLogger<strong>{1}</strong>:15 - Click on BankManager Button
-11:50:47,320 DEBUG devpinoyLogger<strong>{1}</strong>:17 - Checking add customer button
-11:50:47,476 DEBUG devpinoyLogger<strong>{1}</strong>:20 - Assertion successfull
-11:50:47,543 DEBUG freemarker.cache<strong>{1}</strong>:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
-11:50:47,544 DEBUG freemarker.cache<strong>{1}</strong>:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
-11:50:47,545 DEBUG freemarker.cache<strong>{1}</strong>:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
-11:50:47,546 DEBUG freemarker.cache<strong>{1}</strong>:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
-11:50:47,546 DEBUG freemarker.cache<strong>{1}</strong>:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/WINDOWS/system32/config/systemprofile/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
-11:50:47,775 DEBUG devpinoyLogger<strong>{1}</strong>:25 - Fetch data from data 
-11:50:50,021 DEBUG devpinoyLogger<strong>{1}</strong>:43 - Data Entered
-11:50:52,088 DEBUG devpinoyLogger<strong>{1}</strong>:47 - Add customer button clicked
-11:50:52,118 DEBUG devpinoyLogger<strong>{1}</strong>:51 - Accept the alert
-11:50:52,121 DEBUG freemarker.cache<strong>{1}</strong>:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
-11:50:52,122 DEBUG freemarker.cache<strong>{1}</strong>:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
-11:50:52,122 DEBUG freemarker.cache<strong>{1}</strong>:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
-11:50:52,123 DEBUG freemarker.cache<strong>{1}</strong>:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
-11:50:52,124 DEBUG freemarker.cache<strong>{1}</strong>:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/WINDOWS/system32/config/systemprofile/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
-11:50:54,371 DEBUG devpinoyLogger<strong>{1}</strong>:43 - Data Entered
-11:50:56,471 DEBUG devpinoyLogger<strong>{1}</strong>:47 - Add customer button clicked
-11:50:56,480 DEBUG devpinoyLogger<strong>{1}</strong>:51 - Accept the alert
-11:50:56,481 DEBUG freemarker.cache<strong>{1}</strong>:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
-11:50:56,482 DEBUG freemarker.cache<strong>{1}</strong>:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
-11:50:56,483 DEBUG freemarker.cache<strong>{1}</strong>:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
-11:50:56,485 DEBUG freemarker.cache<strong>{1}</strong>:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
-11:50:56,485 DEBUG freemarker.cache<strong>{1}</strong>:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/WINDOWS/system32/config/systemprofile/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
-11:50:58,757 DEBUG devpinoyLogger<strong>{1}</strong>:43 - Data Entered
-11:51:00,825 DEBUG devpinoyLogger<strong>{1}</strong>:47 - Add customer button clicked
-11:51:00,837 DEBUG devpinoyLogger<strong>{1}</strong>:51 - Accept the alert
-11:51:00,841 DEBUG freemarker.cache<strong>{1}</strong>:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
-11:51:00,843 DEBUG freemarker.cache<strong>{1}</strong>:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
-11:51:00,845 DEBUG freemarker.cache<strong>{1}</strong>:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
-11:51:00,846 DEBUG freemarker.cache<strong>{1}</strong>:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
-11:51:00,847 DEBUG freemarker.cache<strong>{1}</strong>:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/WINDOWS/system32/config/systemprofile/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
-11:51:01,533 DEBUG devpinoyLogger<strong>{1}</strong>:120 - Close Browser
+09:33:09,934 DEBUG devpinoyLogger<strong>{1}</strong>:48 - Config file loaded
+09:33:09,938 DEBUG devpinoyLogger<strong>{1}</strong>:62 - OR file loaded
+09:33:11,664 DEBUG devpinoyLogger<strong>{1}</strong>:72 - URL http://www.way2automation.com/angularjs-protractor/banking/#/login Open
+09:33:14,444 DEBUG devpinoyLogger<strong>{1}</strong>:74 - Maximize Browser
+09:33:14,601 DEBUG devpinoyLogger<strong>{1}</strong>:15 - Click on BankManager Button
+09:33:14,678 DEBUG devpinoyLogger<strong>{1}</strong>:17 - Checking add customer button
+09:33:14,858 DEBUG devpinoyLogger<strong>{1}</strong>:20 - Assertion successfull
+09:33:14,927 DEBUG freemarker.cache<strong>{1}</strong>:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+09:33:14,929 DEBUG freemarker.cache<strong>{1}</strong>:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+09:33:14,930 DEBUG freemarker.cache<strong>{1}</strong>:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+09:33:14,931 DEBUG freemarker.cache<strong>{1}</strong>:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+09:33:14,931 DEBUG freemarker.cache<strong>{1}</strong>:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/WINDOWS/system32/config/systemprofile/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+09:33:15,137 DEBUG devpinoyLogger<strong>{1}</strong>:25 - Fetch data from data 
+09:33:17,436 DEBUG devpinoyLogger<strong>{1}</strong>:43 - Data Entered
+09:33:19,559 DEBUG devpinoyLogger<strong>{1}</strong>:47 - Add customer button clicked
+09:33:19,590 DEBUG devpinoyLogger<strong>{1}</strong>:51 - Accept the alert
+09:33:19,594 DEBUG freemarker.cache<strong>{1}</strong>:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+09:33:19,595 DEBUG freemarker.cache<strong>{1}</strong>:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+09:33:19,595 DEBUG freemarker.cache<strong>{1}</strong>:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+09:33:19,597 DEBUG freemarker.cache<strong>{1}</strong>:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+09:33:19,598 DEBUG freemarker.cache<strong>{1}</strong>:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/WINDOWS/system32/config/systemprofile/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+09:33:21,896 DEBUG devpinoyLogger<strong>{1}</strong>:43 - Data Entered
+09:33:23,949 DEBUG devpinoyLogger<strong>{1}</strong>:47 - Add customer button clicked
+09:33:23,959 DEBUG devpinoyLogger<strong>{1}</strong>:51 - Accept the alert
+09:33:23,960 DEBUG freemarker.cache<strong>{1}</strong>:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+09:33:23,960 DEBUG freemarker.cache<strong>{1}</strong>:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+09:33:23,960 DEBUG freemarker.cache<strong>{1}</strong>:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+09:33:23,961 DEBUG freemarker.cache<strong>{1}</strong>:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+09:33:23,961 DEBUG freemarker.cache<strong>{1}</strong>:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/WINDOWS/system32/config/systemprofile/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+09:33:26,231 DEBUG devpinoyLogger<strong>{1}</strong>:43 - Data Entered
+09:33:28,310 DEBUG devpinoyLogger<strong>{1}</strong>:47 - Add customer button clicked
+09:33:28,324 DEBUG devpinoyLogger<strong>{1}</strong>:51 - Accept the alert
+09:33:28,327 DEBUG freemarker.cache<strong>{1}</strong>:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+09:33:28,329 DEBUG freemarker.cache<strong>{1}</strong>:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+09:33:28,332 DEBUG freemarker.cache<strong>{1}</strong>:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+09:33:28,334 DEBUG freemarker.cache<strong>{1}</strong>:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+09:33:28,335 DEBUG freemarker.cache<strong>{1}</strong>:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/WINDOWS/system32/config/systemprofile/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+09:33:28,999 DEBUG devpinoyLogger<strong>{1}</strong>:120 - Close Browser

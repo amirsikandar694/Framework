@@ -28,12 +28,4 @@ public class TestConfig{
 	public static String mysqlpassword = "selenium";
 	public static String mysqlurl = "jdbc:mysql://localhost:3306/acs";
 	
-	
-	
-	
-	
-	
-	
-	
-	
 }
